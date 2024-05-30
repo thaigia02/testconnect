@@ -19,7 +19,7 @@ public class Controler {
     public static Connection getJDBCConnection(){
         String url = "jdbc:mysql://localhost:3306/test";
         String user = "root";
-        String password ="1234";
+        String password ="1235";
         
     
         try {
